@@ -1,5 +1,5 @@
 # AI-Reporting-Tool-Showcase
-Showcase of an AI-powered penetration testing report automation tool. No code included — only feature highlights and demo.
+Showcase of an AI-powered penetration testing report automation tool. No code included — only feature highlights and screenshots.
 
 ### This project demonstrates a local application built to automate penetration testing report generation using AI, dramatically reducing manual reporting effort and ensuring consistency with professional formatting.
 
