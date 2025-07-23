@@ -66,6 +66,6 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 
 # 🔒 Disclaimer
 
-## This repository is for demonstration purposes only.The full source code and internal logic are private and not publicly shared.For collaboration inquiries, contact the developer directly.
+### This repository is for demonstration purposes only.The full source code and internal logic are private and not publicly shared.For collaboration inquiries, contact the developer directly.
 
 
