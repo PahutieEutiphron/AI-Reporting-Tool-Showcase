@@ -5,15 +5,15 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 
 # Key Benefits
 
-### ⏳ Report generation time cut from 4–5 hours to 20–30 minutes
+### Report generation time cut from 4–5 hours to 20–30 minutes
 
-### ⚖️ Precise placeholder-based formatting in .docx (e.g., {{CLIENT}}, {{RISK_LEVEL}})
+###  Precise placeholder-based formatting in .docx (e.g., {{CLIENT}}, {{RISK_LEVEL}})
 
-### 🏛 Prompt-based vulnerability generation tuned for high-quality structure and clarity
+### Prompt-based vulnerability generation tuned for high-quality structure and clarity
 
-### 🌐 Supports both Gemini and local LLMs (e.g., Mistral)
+### Supports both Gemini and local LLMs (e.g., Mistral)
 
-### 🌎 Compatible with any .docx template using placeholders
+### Compatible with any .docx template using placeholders
 
 # What It Does
 
@@ -37,7 +37,7 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 
 ### Prompts are adaptable to any new template structure, as long as placeholder labels are consistent (or adjusted in the config)
 
-# 📁 Screenshot Highlights
+# Screenshot Highlights
 
 | Application Interface | Template Preview (1) | Template Preview (2) |
 |------------------------|----------------------|------------------------|
