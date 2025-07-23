@@ -37,10 +37,10 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 
 ### Prompts are adaptable to any new template structure, as long as placeholder labels are consistent (or adjusted in the config)
 
-## 📁 Screenshot Highlights
-```markdown
+# 📁 Screenshot Highlights
+
 | Application Interface | Template Preview (1) | Template Preview (2) |
-|------------------------|------------------|-----------------------|
+|------------------------|----------------------|------------------------|
 | ![Interface](screenshots/application_interface.png) | ![Template1](screenshots/template.png) | ![Template2](screenshots/template2.png) |
 
 | Input Form | Generate Report | Report Downloaded |
@@ -52,9 +52,10 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 | ![Report1](screenshots/final_report1.png) | ![Report2](screenshots/final_report2.png) |
 
 *All screenshots are available in the `/screenshots/` folder.*
-```
+
+
 # Technical Stack
-```
+
 - Python (Flask backend)
 
 - python-docx for .docx manipulation
@@ -62,7 +63,7 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 - Gemini 1.5 Pro (via API) or local Mistral model
 
 - HTML/Jinja templates for structured input
-```
+
 # 🔒 Disclaimer
 
 ## This repository is for demonstration purposes only.The full source code and internal logic are private and not publicly shared.For collaboration inquiries, contact the developer directly.
