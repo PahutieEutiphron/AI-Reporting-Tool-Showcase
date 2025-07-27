@@ -69,3 +69,11 @@ Showcase of an AI-powered penetration testing report automation tool. No code in
 ### This repository is for demonstration purposes only.The full source code and internal logic are private and not publicly shared.For collaboration inquiries, contact the developer directly.
 
 
+
+## Update (27 July 2025)
+
+- **Added Code Review Section:** Similar to the regular vulnerabilities section but focused on source code issues.
+- **Template Selection:** Users can now choose between different templates (`template1` with Code Review and `template2` without).
+- **Dynamic UI:** The Code Review sections in the web interface are automatically hidden when `template2` is selected.
+- **Improved Report Generator:** The selected template is now applied when generating the `.docx` report.
+
